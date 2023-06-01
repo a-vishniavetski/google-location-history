@@ -3,3 +3,4 @@ takeout-20230519T194059Z-001/
 *.png
 *.json
 *.zip
+!output/*.png
