@@ -1,5 +1,5 @@
 # Geolocation Insights: Analyzing User's Google Location History
-### with Pandas, Matplotlib and Jupyter Notebook
+### _with Pandas, Matplotlib and Jupyter Notebook_
 
 This project utilizes six months of geolocation data collected by Google (67,000 entries) to analyze user's (mine) movements and activities. 
 
@@ -12,7 +12,7 @@ Employing Pandas library the data is processed to extract key information, such 
 
 Using this information it is possible to plot my locations on a map, depicting where and when I've been, using Matplotlib, Geopandas, and Shapely, as well as to analyzethe observation frequencies, activity frequencies and altitude history.
 
-### _The source code is located in the "Location History.ipynb" file._
+#### _The source code is located in the "Location History.ipynb" file._
 
 ## Output maps and graphs
 ### _Color gradients are employed to indicate the recency of each location. Yellow points are the newest dates, dark blue points are the oldest dates._
