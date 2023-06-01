@@ -1,6 +1,6 @@
 # Geolocation Insights: Analyzing User's Google Location History
 ### _with Pandas, Matplotlib and Jupyter Notebook_
-#### _The source code is located in the "Location History.ipynb" file._
+#### <ins>_The source code is located in the "Location History.ipynb" file._<ins>
 
 This project utilizes six months of geolocation data collected by Google (67,000 entries) to analyze user's (mine) movements and activities. 
 
