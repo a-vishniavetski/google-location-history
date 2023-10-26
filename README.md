@@ -10,6 +10,7 @@
 
 - [Overview](#overview)
 - [Visualizations](#Visualizations)
+- [Statistics](#Statistics)
 - [Conclusion](#Conclusion)
 
 ## Overview
@@ -38,7 +39,7 @@ Using this information it is possible to plot my locations on a map, depicting w
 
 ![world][world]
 
-## Some statistics
+## Statistics
 
 ![observations][observations]
 
