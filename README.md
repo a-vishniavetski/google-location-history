@@ -50,7 +50,7 @@ Using this information it is possible to plot my locations on a map, depicting w
 
 ## Conclusion
 
-Google collects geolocation data _frequently_ and _extensively_ and can deduce information not only about where the user _has traveled_ but also, by analyzing _routes and frequency_, where the user _lives_, which places he _often visits_, how he _commutes_ there, as well as in which cities and/or countries he has_ people he visits often_.
+Google collects geolocation data _frequently_ and _extensively_ and can deduce information not only about where the user _has traveled_ but also, by analyzing _routes and frequency_, where the user _lives_, which places he _often visits_, how he _commutes_ there, as well as in which cities and/or countries he has _people he visits often_.
 
 The frequency of observations seems to be uneven and has so far unexplained outliers.
 
