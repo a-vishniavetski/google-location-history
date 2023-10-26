@@ -28,7 +28,7 @@ Employing Pandas library the data is processed to extract key information, such 
 Using this information it is possible to plot my locations on a map, depicting where and when I've been, using Matplotlib, Geopandas, and Shapely, as well as to analyze the observation frequencies, activity frequencies, and altitude history.
 
 ## Visualizations
-### _Color gradients are employed to indicate the recency of each location. Yellow points are the newest dates, dark blue points are the oldest dates._
+### _Color gradients are employed to indicate the recency of each location. Yellow points are the newest dates, and dark blue points are the oldest dates._
 
 ![europe][europe]
 
@@ -50,9 +50,13 @@ Using this information it is possible to plot my locations on a map, depicting w
 
 ## Conclusion
 
-It is better to see something once than to hear about it a hundred times, and exploration of the aforementioned data allowes us to visualise just _how much_ information about us Google collects and what detailed inferences he can produce from it. 
+Google collects geolocation data _frequently_ and _extensively_ and can deduce information not only about where the user _has traveled_ but also, by analyzing _routes and frequency_, where the user _lives_, which places he _often visits_, how he _commutes_ there, as well as in which cities and/or countries he has_ people he visits often_.
 
-While exciting, it motivated me to turn _off_ my geolocation data in my Google Account, even though I won't be able to use it for data analysis anymore.
+The frequency of observations seems to be uneven and has so far unexplained outliers.
+
+The additional information about altitudes and the most likely activity being undertaken also allows Google to figure out what exactly the user is doing, i.e. climbing a mountain or just staying at home.
+
+A worthy thing to note is that the above analysis doesn't even explore all of the data parameters that are collected, like, for example, _the MAC addresses of the nearest to the user Wi-Fi hotspots_.
 
 [europe]: https://github.com/a-vishniavetski/google-location-history/blob/main/output/europe.png "Europe"
 [poland]: https://github.com/a-vishniavetski/google-location-history/blob/main/output/poland.png "Poland"
