@@ -1,5 +1,4 @@
-<img src="https://github.com/a-vishniavetski/google-location-history/assets/132013288/4b2b0647-dde7-4fad-923f-33554e522039" align="right" height="130"></img>
-
+<img src="https://github.com/a-vishniavetski/google-location-history/assets/132013288/ddd1dd25-f45c-4966-bc30-c2826f2070cc" align="right" height="150"></img>
 
 # Google's "Location History" Data Analysis
 > _With Pandas, Matplotlib and Jupyter Notebook_
