@@ -1,6 +1,19 @@
-# Geolocation Insights: Analyzing User's Google Location History
-### _with Pandas, Matplotlib and Jupyter Notebook_
-#### <ins>_The source code is located in the "Location History.ipynb" file._<ins>
+<img src="https://github.com/a-vishniavetski/google-location-history/assets/132013288/4b2b0647-dde7-4fad-923f-33554e522039" align="right" height="130"></img>
+
+
+# Google's "Location History" Data Analysis
+> _With Pandas, Matplotlib and Jupyter Notebook_
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Navigation
+
+- [Overview](#overview)
+- [Visualizations](#Visualizations)
+- [Conclusion](#Conclusion)
+
+## Overview
 
 This project utilizes six months of geolocation data collected by Google (67,000 entries) to analyze user's (mine) movements and activities. 
 
@@ -11,9 +24,11 @@ Employing Pandas library the data is processed to extract key information, such 
 * altitude
 * probable activity the user (me) was undertaking
 
-Using this information it is possible to plot my locations on a map, depicting where and when I've been, using Matplotlib, Geopandas, and Shapely, as well as to analyzethe observation frequencies, activity frequencies and altitude history.
+Using this information it is possible to plot my locations on a map, depicting where and when I've been, using Matplotlib, Geopandas, and Shapely, as well as to analyze the observation frequencies, activity frequencies, and altitude history.
 
-## Output maps and graphs
+> ***The source code is located in the "Location History.ipynb" file.***
+
+## Visualizations
 ### _Color gradients are employed to indicate the recency of each location. Yellow points are the newest dates, dark blue points are the oldest dates._
 
 ![europe][europe]
@@ -34,7 +49,7 @@ Using this information it is possible to plot my locations on a map, depicting w
 
 ![altitude][altitude]
 
-## Conclusions
+## Conclusion
 
 It is better to see something once than to hear about it a hundred times, and exploration of the aforementioned data allowes us to visualise just _how much_ information about us Google collects and what detailed inferences he can produce from it. 
 
