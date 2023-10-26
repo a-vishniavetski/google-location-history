@@ -1,8 +1,9 @@
-<img src="https://github.com/a-vishniavetski/google-location-history/assets/132013288/ddd1dd25-f45c-4966-bc30-c2826f2070cc" align="right" height="150"></img>
+<img src="https://github.com/a-vishniavetski/google-location-history/assets/132013288/ddd1dd25-f45c-4966-bc30-c2826f2070cc" align="right" height="170"></img>
 
 # Google's "Location History" Data Analysis
-> _With Pandas, Matplotlib and Jupyter Notebook_
-
+> _With Pandas, Matplotlib and Jupyter Notebook._
+> 
+> _The source code is located in the `Location History.ipynb` file._
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -25,8 +26,6 @@ Employing Pandas library the data is processed to extract key information, such 
 * probable activity the user (me) was undertaking
 
 Using this information it is possible to plot my locations on a map, depicting where and when I've been, using Matplotlib, Geopandas, and Shapely, as well as to analyze the observation frequencies, activity frequencies, and altitude history.
-
-> ***The source code is located in the "Location History.ipynb" file.***
 
 ## Visualizations
 ### _Color gradients are employed to indicate the recency of each location. Yellow points are the newest dates, dark blue points are the oldest dates._
